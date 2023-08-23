@@ -2,6 +2,22 @@
 
 ---
 
+
+<center>  
+    <img src ="/pic/pointsWithColor.png"
+    width="45%">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src ="pic/labeledPoints.png"
+    width="45%"> <br>
+</center>
+
+<center> points with color
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+labeled points</center>
+
+---
+
 ## Requirements
 
 **The code is tested on the following environment**
@@ -43,3 +59,10 @@
 ### config
 
 - Using `/helper_tool.py` to set the parameters(including bath_size. etc).
+
+## Results
+<center>  
+    <br><br>
+    <img src ="/pic/HKResult.png"
+    width="80%"><br>
+</center>
