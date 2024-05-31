@@ -66,3 +66,11 @@ labeled points</center>
     <img src ="/pic/HKResult.png"
     width="80%"><br>
 </center>
+
+
+## Reference
+- Out work are based on the [RandLA-Net](https://github.com/QingyongHu/RandLA-Net)
+
+## Concact Us
+Please contact us if you have any questions during use or if you have any other needs.
+- Email: yangzhou97@126.com
