@@ -56,6 +56,9 @@ labeled points</center>
 
 >python test_HongKong.py --checkpoint_path CHECKPOINT_PATH --name NAME --log_dir LOG_DIR
 
+### Pretrained Model
+Trained models are provided for use, for details see [Pretrained Model](/train_output/HongKong_Augm_All_Track_B_5/checkpoint.tar)
+
 ### config
 
 - Using `/helper_tool.py` to set the parameters(including bath_size. etc).
